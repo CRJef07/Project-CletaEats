@@ -1,0 +1,4 @@
+A4154|20000|16|17|Entregado|1-1718-0305|POPS|Ema
+A9956|6000|16|0|En preparación|1-1718-0305|Pizza Hut|Ema
+A4154|8000|11|0|En preparación|117180305|KFC|Ema
+A4154|12000|22|0|En preparación|1|KFC|5
